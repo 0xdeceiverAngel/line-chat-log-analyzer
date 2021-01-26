@@ -10,3 +10,5 @@ message(include call,unsent a message,photo,video,voice message and sticker) 218
 miss call 54
 no answer 6
 ```
+## warning
+It test work on ios line export chat log file in English interface, it doesn't work on chinese interface
